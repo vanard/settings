@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="AppConfig" type="CLASS" />
+      <mapping pattern="a" type="CLASS" />
+      <mapping pattern="b" type="JAVA" />
       <mapping ext="rar" type="Native" />
     </extensionMap>
   </component>
