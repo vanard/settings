@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/udacity/Advanced_Android_Development.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iksandecade/Shared-Prefences-Example" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Office\Kuliah\Android" />
